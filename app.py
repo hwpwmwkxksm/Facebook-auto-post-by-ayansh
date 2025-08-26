@@ -8,7 +8,7 @@ app.secret_key = "super_secret_key"
 tasks = {}    # {task_key: True/False}
 logs = {}     # {task_key: [log_lines]}
 owner_logged_in = False
-OWNER_PASSWORD = "ayanshbaba"
+OWNER_PASSWORD = "blatkariayanshbaba"
 
 # ==================== HTML ====================
 HTML_PAGE = """ 
